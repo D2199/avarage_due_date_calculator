@@ -1,0 +1,98 @@
+
+
+
+#input{
+    text-align:center;
+    margin: 10px;
+    
+  }
+  input{
+    padding: 5px;
+    border-radius: 5px;
+    margin:5px;
+    text-align: center;
+    margin-top: 5px;
+    border-top: 2px;
+    
+  }
+  con{
+    display:grid;
+    justify-items:center;
+    
+  }
+  #tb{
+    display:grid;
+    overflow-wrap: break-word;
+    text-align: center;
+    grid-template-columns: 180px 180px;
+  
+   
+   
+  }
+  body{
+    background-color:darkslategray;
+    background-image: url('./sp.jpeg');
+    color: aliceblue;
+    
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    text-align: center;
+   
+    padding:5%;
+    
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #display{
+   margin-top: 20px;
+   display: flex;
+  justify-content: center;
+  }
+  #display th{
+    background-color:rgb(32, 131, 131);
+    padding:10px;
+
+  }
+  #display td{
+    background-color:aliceblue;
+    color: black;
+    padding: 10px;
+    border-collapse: collapse;
+    box-shadow:20px aqua;
+  
+  }
+  #submit{
+    margin-top: 20px;
+    width:100px;
+    
+  }
+  button{
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 20px;
+  }
+ul{
+  background-color:black;
+  padding: 20px;
+  color: chartreuse
+}
+
+img{
+  cursor: pointer;
+  border-radius: 50px;
+  width:80px;
+  margin-left: 89%;
+}
+#sun{
+  
+}
+span{
+  background-color: black;
+}
